@@ -1,0 +1,2 @@
+2025-02-27 19:37:15:3715 - [31merror[39m: [31mquerySrv ENOTFOUND _mongodb._tcp.cluser0.mzo8r.mongodb.net[39m
+2025-02-27 20:24:56:2456 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'create')[39m

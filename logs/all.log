@@ -1,0 +1,71 @@
+2025-02-27 19:34:40:3440 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:35:46:3546 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:36:44:3644 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:36:44:3644 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:37:04:374 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:37:04:374 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:37:14:3714 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:37:15:3715 - [31merror[39m: [31mquerySrv ENOTFOUND _mongodb._tcp.cluser0.mzo8r.mongodb.net[39m
+2025-02-27 19:37:20:3720 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:37:20:3720 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:37:40:3740 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:37:40:3740 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:37:57:3757 - [32minfo[39m: [32mServer is up on port3000[39m
+2025-02-27 19:37:58:3758 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:40:58:4058 - [32minfo[39m: [32mServer is up on port 3000[39m
+2025-02-27 19:40:58:4058 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:41:02:412 - [32minfo[39m: [32mServer is up on port:3000[39m
+2025-02-27 19:41:02:412 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:41:08:418 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 19:41:08:418 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:41:10:4110 - [32minfo[39m: [32mServer is up on PORT: 3000[39m
+2025-02-27 19:41:11:4111 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:41:18:4118 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 19:41:19:4119 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:54:36:5436 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 19:54:37:5437 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:55:34:5534 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 19:55:34:5534 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:55:40:5540 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 19:55:41:5541 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:56:23:5623 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 19:56:23:5623 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 19:56:26:5626 - [35mhttp[39m: [35mGET /api/test 200 20 - 3.895 ms[39m
+[35m[39m
+2025-02-27 20:14:30:1430 - [35mhttp[39m: [35mPOST /api//movie 404 150 - 29.761 ms[39m
+[35m[39m
+2025-02-27 20:14:40:1440 - [35mhttp[39m: [35mPOST /api/movie 404 149 - 1.061 ms[39m
+[35m[39m
+2025-02-27 20:14:48:1448 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:14:48:1448 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:15:10:1510 - [35mhttp[39m: [35mPOST /api/movie 200 35 - 1.813 ms[39m
+[35m[39m
+2025-02-27 20:19:16:1916 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:19:16:1916 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:19:22:1922 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:19:23:1923 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:19:35:1935 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:19:35:1935 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:20:16:2016 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:20:16:2016 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:20:29:2029 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:20:30:2030 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:20:39:2039 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:20:40:2040 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:20:49:2049 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:20:50:2050 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:24:10:2410 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:24:10:2410 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:24:56:2456 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'create')[39m
+2025-02-27 20:25:35:2535 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:25:36:2536 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:26:01:261 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:26:01:261 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:26:08:268 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:26:08:268 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:26:10:2610 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:26:11:2611 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:27:15:2715 - [35mhttp[39m: [35mPOST /api/movie 201 167 - 105.947 ms[39m
+[35m[39m
+2025-02-27 20:34:15:3415 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:34:16:3416 - [32minfo[39m: [32mDB connected![39m
