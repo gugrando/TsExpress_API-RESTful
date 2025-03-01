@@ -69,3 +69,186 @@
 [35m[39m
 2025-02-27 20:34:15:3415 - [32minfo[39m: [32mServer is up on PORT:3000[39m
 2025-02-27 20:34:16:3416 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:44:41:4441 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:44:42:4442 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:44:59:4459 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:45:00:450 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:45:26:4526 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:45:26:4526 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:47:40:4740 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:47:40:4740 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:47:54:4754 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:47:54:4754 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:47:59:4759 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:48:00:480 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:48:32:4832 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:48:33:4833 - [32minfo[39m: [32mDB connected![39m
+2025-02-27 20:48:47:4847 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-27 20:48:48:4848 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 11:38:15:3815 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 11:38:15:3815 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 11:41:02:412 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 11:41:02:412 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 11:56:25:5625 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 11:56:25:5625 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 11:56:33:5633 - [35mhttp[39m: [35mPOST /api/movie 422 162 - 5.196 ms[39m
+[35m[39m
+2025-02-28 11:56:42:5642 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 11:56:43:5643 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 11:56:45:5645 - [35mhttp[39m: [35mPOST /api/movie 201 143 - 46.914 ms[39m
+[35m[39m
+2025-02-28 11:56:50:5650 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 11:56:51:5651 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 11:57:06:576 - [35mhttp[39m: [35mPOST /api/movie 422 46 - 4.433 ms[39m
+[35m[39m
+2025-02-28 11:57:52:5752 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 11:57:53:5753 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 12:03:53:353 - [35mhttp[39m: [35mPOST /api/movie 201 159 - 49.580 ms[39m
+[35m[39m
+2025-02-28 12:03:59:359 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 12:04:00:40 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 12:04:01:41 - [35mhttp[39m: [35mPOST /api/movie 422 60 - 5.108 ms[39m
+[35m[39m
+2025-02-28 12:04:11:411 - [35mhttp[39m: [35mPOST /api/movie 201 158 - 40.413 ms[39m
+[35m[39m
+2025-02-28 12:04:16:416 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 12:04:17:417 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 12:06:21:621 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 12:06:21:621 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 12:06:49:649 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 12:06:50:650 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 22:58:02:582 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 22:58:14:5814 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 22:58:20:5820 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 22:58:28:5828 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 22:58:58:5858 - [31merror[39m: [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2025-02-28 22:59:05:595 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2025-02-28 22:59:07:597 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2025-02-28 22:59:25:5925 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 22:59:55:5955 - [31merror[39m: [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2025-02-28 23:00:46:046 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:01:16:116 - [31merror[39m: [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2025-02-28 23:01:42:142 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:01:45:145 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:01:47:147 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:01:48:148 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:01:55:155 - [35mhttp[39m: [35mPOST /api/movie 201 159 - 45.875 ms[39m
+[35m[39m
+2025-02-28 23:06:37:637 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:06:38:638 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:08:11:811 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:08:12:812 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:08:16:816 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:08:16:816 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:08:48:848 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:08:49:849 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:09:48:948 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:09:48:948 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:11:27:1127 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:11:27:1127 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:11:33:1133 - [35mhttp[39m: [35mPOST /api/movie 201 241 - 41.742 ms[39m
+[35m[39m
+2025-02-28 23:11:45:1145 - [35mhttp[39m: [35mPOST /api/movie 422 49 - 3.013 ms[39m
+[35m[39m
+2025-02-28 23:11:55:1155 - [35mhttp[39m: [35mPOST /api/movie 422 52 - 1.225 ms[39m
+[35m[39m
+2025-02-28 23:12:02:122 - [35mhttp[39m: [35mPOST /api/movie 201 234 - 28.885 ms[39m
+[35m[39m
+2025-02-28 23:12:26:1226 - [35mhttp[39m: [35mPOST /api/movie 422 47 - 0.673 ms[39m
+[35m[39m
+2025-02-28 23:12:33:1233 - [35mhttp[39m: [35mPOST /api/movie 201 241 - 29.803 ms[39m
+[35m[39m
+2025-02-28 23:12:40:1240 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:12:41:1241 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:14:17:1417 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:14:18:1418 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:14:18:1418 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:14:19:1419 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:14:27:1427 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:14:28:1428 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:18:07:187 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:18:07:187 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:19:11:1911 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:19:11:1911 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:23:19:2319 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:23:19:2319 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:24:43:2443 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:24:43:2443 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:25:54:2554 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2025-02-28 23:26:04:264 - [35mhttp[39m: [35mGET /api/movie/:id - - - - ms[39m
+[35m[39m
+2025-02-28 23:26:34:2634 - [35mhttp[39m: [35mGET /api/movie/67c26d114938db7731b8f716 200 241 - 33.428 ms[39m
+[35m[39m
+2025-02-28 23:26:41:2641 - [35mhttp[39m: [35mGET /api/movie 200 1511 - 28.105 ms[39m
+[35m[39m
+2025-02-28 23:26:53:2653 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:26:54:2654 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:28:48:2848 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:28:49:2849 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:29:06:296 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:29:06:296 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:30:07:307 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:30:08:308 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:30:12:3012 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:30:12:3012 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:31:20:3120 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:31:20:3120 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:32:59:3259 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:33:00:330 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:33:44:3344 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:33:44:3344 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:33:59:3359 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:33:59:3359 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:34:24:3424 - [35mhttp[39m: [35mDELETE /api/movie/67c26d114938db7731b8f716 200 28 - 69.559 ms[39m
+[35m[39m
+2025-02-28 23:34:29:3429 - [35mhttp[39m: [35mGET /api/movie 200 1269 - 30.306 ms[39m
+[35m[39m
+2025-02-28 23:34:57:3457 - [35mhttp[39m: [35mDELETE /api/movie/67c0f4d388e7711d713bbe0c 200 28 - 57.709 ms[39m
+[35m[39m
+2025-02-28 23:35:02:352 - [35mhttp[39m: [35mGET /api/movie 200 1101 - 26.893 ms[39m
+[35m[39m
+2025-02-28 23:36:53:3653 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:36:54:3654 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:37:41:3741 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:37:41:3741 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:38:10:3810 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:38:10:3810 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:40:29:4029 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:40:29:4029 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:40:43:4043 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:40:44:4044 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:41:32:4132 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:41:33:4133 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:41:44:4144 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2025-02-28 23:41:44:4144 - [35mhttp[39m: [35mPATCH /api/movie/:id 500 35 - 8.132 ms[39m
+[35m[39m
+2025-02-28 23:43:17:4317 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2025-02-28 23:43:17:4317 - [35mhttp[39m: [35mPATCH /api/movie/:id 500 35 - 1.621 ms[39m
+[35m[39m
+2025-02-28 23:43:31:4331 - [35mhttp[39m: [35mPATCH /api/movie/67c26d114938db7731b8f716 404 30 - 28.262 ms[39m
+[35m[39m
+2025-02-28 23:43:41:4341 - [35mhttp[39m: [35mGET /api/movie 200 1101 - 33.181 ms[39m
+[35m[39m
+2025-02-28 23:44:09:449 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-02-28 23:44:09:449 - [35mhttp[39m: [35mPATCH /api/movie/67c1cead7b8b5ff82b7f6071 500 158 - 61.502 ms[39m
+[35m[39m
+2025-02-28 23:44:39:4439 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:44:39:4439 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:45:27:4527 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:45:27:4527 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:45:36:4536 - [35mhttp[39m: [35mPATCH /api/movie/67c1cead7b8b5ff82b7f6071 422 298 - 5.726 ms[39m
+[35m[39m
+2025-02-28 23:45:51:4551 - [35mhttp[39m: [35mPATCH /api/movie/67c1cead7b8b5ff82b7f6071 422 207 - 2.429 ms[39m
+[35m[39m
+2025-02-28 23:46:53:4653 - [35mhttp[39m: [35mPATCH /api/movie/67c1cead7b8b5ff82b7f6071 422 49 - 4.978 ms[39m
+[35m[39m
+2025-02-28 23:47:09:479 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-02-28 23:47:09:479 - [35mhttp[39m: [35mPATCH /api/movie/67c1cead7b8b5ff82b7f6071 500 243 - 69.362 ms[39m
+[35m[39m
+2025-02-28 23:47:23:4723 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:47:24:4724 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:50:24:5024 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:50:24:5024 - [32minfo[39m: [32mDB connected![39m
+2025-02-28 23:51:12:5112 - [32minfo[39m: [32mServer is up on PORT:3000[39m
+2025-02-28 23:51:13:5113 - [32minfo[39m: [32mDB connected![39m

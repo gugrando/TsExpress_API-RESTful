@@ -1,2 +1,11 @@
 2025-02-27 19:37:15:3715 - [31merror[39m: [31mquerySrv ENOTFOUND _mongodb._tcp.cluser0.mzo8r.mongodb.net[39m
 2025-02-27 20:24:56:2456 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'create')[39m
+2025-02-28 22:58:58:5858 - [31merror[39m: [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2025-02-28 22:59:05:595 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2025-02-28 22:59:55:5955 - [31merror[39m: [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2025-02-28 23:01:16:116 - [31merror[39m: [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2025-02-28 23:25:54:2554 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2025-02-28 23:41:44:4144 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2025-02-28 23:43:17:4317 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2025-02-28 23:44:09:449 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-02-28 23:47:09:479 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
