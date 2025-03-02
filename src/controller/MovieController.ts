@@ -1,6 +1,7 @@
 import {Request, Response} from "express";
 import { MovieModel } from "../models/Movie";
 import Logger from "../../config/logger";
+import mongoose from "mongoose";
 
 export async function createMovie(req: Request, res: Response) {
     try {
@@ -12,9 +13,14 @@ export async function createMovie(req: Request, res: Response) {
     }
 }
 
-export async function getMovies(req: Request, res: Response) {
+export async function getMoviesById(req: Request, res: Response) {
     try {
         const id = req.params.id;
+
+        if (!mongoose.Types.ObjectId.isValid(id)) {
+            return res.status(400).json({ message: "ID inválido" });
+        }
+
         const movie = await MovieModel.findById(id);
         if (!movie) {
             return res.status(404).json({message: "Movie not found!"});
@@ -28,11 +34,33 @@ export async function getMovies(req: Request, res: Response) {
 
 export async function getAllMovies(req: Request, res: Response) {
     try {
-        const movies = await MovieModel.find();
-        res.status(200).json(movies);
+        // Extrair os parâmetros de página e limite da requisição
+        const page = parseInt(req.query.page as string) || 1; // Página atual (default 1)
+        const limit = parseInt(req.query.limit as string) || 10; // Limite de filmes por página (default 10)
+
+        // Calcular o número de filmes a ser pulado (skip) com base na página
+        const skip = (page - 1) * limit;
+
+        // Buscar filmes com paginação
+        const movies = await MovieModel.find()
+            .skip(skip)
+            .limit(limit);
+
+        // Contar o total de filmes para determinar se há mais páginas
+        const totalMovies = await MovieModel.countDocuments();
+
+        // Enviar a resposta com filmes e informações de paginação
+        res.status(200).json({
+            movies,
+            pagination: {
+                currentPage: page,
+                totalPages: Math.ceil(totalMovies / limit),
+                totalMovies,
+            },
+        });
     } catch (error: any) {
         Logger.error(`Erro no sistema: ${error.message}`);
-        return res.status(500).json({message: "Internal Server Error"});
+        return res.status(500).json({ message: "Internal Server Error" });
     }
 }
 

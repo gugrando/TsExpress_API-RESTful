@@ -9,3 +9,16 @@
 2025-02-28 23:43:17:4317 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
 2025-02-28 23:44:09:449 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
 2025-02-28 23:47:09:479 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-03-01 12:08:00:80 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:08:09:89 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:08:29:829 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:08:51:851 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:09:11:911 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:19:22:1922 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:23:46:2346 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:24:44:2444 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:24:46:2446 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:30:46:3046 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:35:08:358 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67c322c1c1d2c31a1ea4a09" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:35:20:3520 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67c322c1c1d2c31a1ea4a09" (type string) at path "_id" for model "Movie"[39m
+2025-03-01 12:39:58:3958 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "askdç" (type string) at path "_id" for model "Movie"[39m
