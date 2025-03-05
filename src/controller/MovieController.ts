@@ -83,15 +83,45 @@ export async function updateMovie(req: Request, res: Response) {
     try {
         const id = req.params.id;
         const data = req.body;
-        const movie = await MovieModel.findById(id);
-        if (!movie) {
-            return res.status(404).json({message: "Movie not found!"});
+
+        const updatedMovie = await MovieModel.findByIdAndUpdate(id, data, { new: true });
+
+        if (!updatedMovie) {
+            return res.status(404).json({ message: "Movie not found!" });
         }
-        
-        await MovieModel.updateOne({_id: id}, data);
-        res.status(200).json(data).json({message: "Movie updated!"});
+
+        res.status(200).json({ message: "Movie updated!", movie: updatedMovie });
     } catch (error: any) {
         Logger.error(`Erro no sistema: ${error.message}`);
-        return res.status(500).json({message: "Internal Server Error"});
+        return res.status(500).json({ message: "Internal Server Error" });
+    }
+}
+
+export async function createNote(req: Request, res: Response) {
+    try {
+        const { id } = req.params;
+        const { note } = req.body; // Pegando apenas a string da nota
+
+        if (!note) {
+            return res.status(400).json({ message: "Note is required!" });
+        }
+
+        const movie = await MovieModel.findById(id);
+
+        if (!movie) {
+            return res.status(404).json({ message: "Movie not found!" });
+        }
+
+        const newNote = {
+            id: new mongoose.Types.ObjectId(),
+            note,
+        };
+        movie.notes.push(newNote);
+        await movie.save();
+
+        res.status(201).json({ message: "Note created!", movie });
+    } catch (error: any) {
+        Logger.error(`Erro no sistema: ${error.message}`);
+        return res.status(500).json({ message: "Internal Server Error" });
     }
 }

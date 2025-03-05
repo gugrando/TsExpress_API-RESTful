@@ -18,6 +18,7 @@ export const movieCreationValidation = () => {
         body('poster').isURL()
             .withMessage('Poster is required'),
         body('banner').isURL()
-            .withMessage('Banner is required')
+            .withMessage('Banner is required'),
+        body('notes').isString().optional().withMessage('Notes is required')
     ]
 }

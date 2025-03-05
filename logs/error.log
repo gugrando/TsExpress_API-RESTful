@@ -22,3 +22,14 @@
 2025-03-01 12:35:08:358 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67c322c1c1d2c31a1ea4a09" (type string) at path "_id" for model "Movie"[39m
 2025-03-01 12:35:20:3520 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67c322c1c1d2c31a1ea4a09" (type string) at path "_id" for model "Movie"[39m
 2025-03-01 12:39:58:3958 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "askdç" (type string) at path "_id" for model "Movie"[39m
+2025-03-02 17:11:05:115 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-03-02 17:23:31:2331 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-03-02 17:27:11:2711 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2025-03-02 21:33:02:332 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Movie"[39m
+2025-03-02 21:41:26:4126 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
+2025-03-02 21:41:57:4157 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
+2025-03-02 21:42:05:425 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
+2025-03-02 21:42:06:426 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
+2025-03-02 21:42:07:427 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
+2025-03-02 21:42:07:427 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
+2025-03-02 21:42:16:4216 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'push')[39m
